@@ -1,3 +1,4 @@
 write('hello world')
 write('hello everybody') 
 write('hello')
+print(h m d)
