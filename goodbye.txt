@@ -1,2 +1,2 @@
-print ('gb')
+print ('gb');
 print('1')
