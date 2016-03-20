@@ -1,5 +1,6 @@
-write('hello world')
-write('hello everybody') 
-write('hello')
-print(h m d)
-print 23
+<<<<<<< HEAD
+write('hello world');
+write('hello everybody') ;
+write('hello');
+print(h m d);
+print 23;
